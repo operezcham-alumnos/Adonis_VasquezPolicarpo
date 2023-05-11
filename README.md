@@ -1,31 +1,10 @@
-# Adonis fullstack application
+# Power of Power Back
 
-This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
+Power of Power is a webcomic, this project is a simple CMS based on AdonisJS.
 
-1. Bodyparser
-2. Session
-3. Authentication
-4. Web security middleware
-5. CORS
-6. Edge template engine
-7. Lucid ORM
-8. Migrations and seeds
-
-## Setup
-
-Use the adonis command to install the blueprint
-
-```bash
-adonis new yardstick
-```
-
-or manually clone the repo and then run `npm install`.
-
-
-### Migrations
-
-Run the following command to run startup migrations.
-
-```js
-adonis migration:run
-```
+DB_CONNECTION=pg
+DB_HOST=dpg-chdbi13hp8u409c0d7v0-a
+DB_PORT=5432
+DB_USER=adonis_qkf6_user
+DB_PASSWORD=xEa3NSwI35jTHggP1lBFA5HfVQEpH20I
+DB_DATABASE=adonis_qkf6
